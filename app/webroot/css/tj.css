@@ -1,0 +1,11 @@
+/* contains some additions for my page layout
+ * by Tiemo Jung 2014
+ */
+ul.inline_nav {
+	list-style:none;
+	padding:0;
+	marging:0;
+};
+.inline_nav>li { 
+	display:inline;
+};
